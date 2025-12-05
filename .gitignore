@@ -1,0 +1,23 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Компилированный питонячий мусор
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Пакеты / сборки
+*.egg-info/
+dist/
+build/
+
+# Настройки IDE
+.idea/
+.vscode/
+
+# Разное
+.DS_Store
+Thumbs.db
